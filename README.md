@@ -28,8 +28,6 @@ This project is a job recommendation service that suggests relevant job postings
 
 ## ScreenShot 
 
-![Screenshot 2024-10-06 145535](https://github.com/user-attachments/assets/6d6b6659-bee4-4821-ba53-e2405356d45c)
-
 
 ![Screenshot 2024-10-06 175550](https://github.com/user-attachments/assets/5fa878ea-1f56-410e-b3d5-937bac70e368)
 

@@ -28,10 +28,12 @@ This project is a job recommendation service that suggests relevant job postings
 
 ## ScreenShot 
 
-![alt text](<Screenshot 2024-10-06 145535.png>)
+![Screenshot 2024-10-06 145535](https://github.com/user-attachments/assets/6d6b6659-bee4-4821-ba53-e2405356d45c)
 
-![alt text](<Screenshot 2024-10-06 175550.png>)
 
-![alt text](<Screenshot 2024-10-06 175607.png>)
+![Screenshot 2024-10-06 175550](https://github.com/user-attachments/assets/5fa878ea-1f56-410e-b3d5-937bac70e368)
 
-![alt text](<Screenshot 2024-10-06 175625.png>)
+
+![Screenshot 2024-10-06 175607](https://github.com/user-attachments/assets/dcd49829-3cfd-45bb-8143-0a5ac3115842)
+
+![Screenshot 2024-10-06 175625](https://github.com/user-attachments/assets/35fed1e8-bab2-401c-b9b2-94d93e8d2db5)
